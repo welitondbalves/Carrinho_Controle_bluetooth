@@ -1,3 +1,11 @@
+/* 
+O carrinho movimenta a partir 
+dos comandos dados pelo aplica-
+tivo android. Com os botões de
+andar para frente, andar para trás,
+vira para esquerda e direita e botão
+freiar.
+*/ 
 // motor um
 #define enA 11
 #define in1 9
